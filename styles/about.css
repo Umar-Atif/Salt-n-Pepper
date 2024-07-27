@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Font-1';
+    src: url(/futurak.ttf);
+}
+
+/* navbar */
+
+a{
+    text-decoration: none;
+    font-size: 1.75rem;
+    color: white;
+}
+.logo-img{
+    width: 168px;
+}
+.nav-items{
+    display: flex;
+    gap: 25px;
+    font-family: 'Poppins';
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-1{
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.btn-2{
+    background-color: var(--red-color);
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+}
+.btn-2-2{
+    color: var(--red-color);
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    align-items: center;
+}
