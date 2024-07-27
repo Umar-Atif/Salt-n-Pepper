@@ -1,0 +1,187 @@
+@font-face {
+    font-family: 'Font-1';
+    src: url(/futurak.ttf);
+}
+
+/* navbar */
+
+a{
+    text-decoration: none;
+    font-size: 1.75rem;
+    color: white;
+}
+.logo-img{
+    width: 168px;
+}
+.nav-items{
+    display: flex;
+    gap: 25px;
+    font-family: 'Poppins';
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-1{
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.btn-2{
+    background-color: var(--red-color);
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+}
+.btn-2-2{
+    color: var(--red-color);
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    align-items: center;
+}
+
+/* 2nd portition */
+.logo-font{
+    font-family: 'Font-1' !important;
+    font-size: 5.2rem !important;
+    font-weight: 350 !important;
+}
+.h2-1{   
+    font-size: 4rem;
+    font-family: 'Poppins';
+    font-weight: 150;
+}
+.Snp{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.p1{
+    margin-top: 5px;
+    font-size: 1.6rem;
+    font-family: "Poppins";
+}
+/* 3rd portion */
+.img-1{
+    background: white;
+}
+.a{
+    margin: 25px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+.btn-a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button-a{
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+/* elements section-3 */
+.elements-1{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+ margin: 40px 0 0 0;
+}
+.h2-2{
+    font-size: 5.2rem;
+    font-family: 'Font-1';
+}
+.span-2{
+    font-size: 4.8rem !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 200;
+}
+.p2{
+    font-family: 'Poppins';
+    font-size: 1.6rem;
+}
+/* elements section 4 */
+.elements-2{
+    margin: 30px 150px 0 150px;
+    display: flex;
+    gap: 280px;
+}
+.h2-3{
+    letter-spacing: 5px;
+    font-family: 'Poppins';
+    color: var(--red-color);
+    font-size: 1.6rem;
+    font-weight: 50;
+}
+.h2-4{
+    font-family: 'Font-1';
+    font-size: 3.2rem;
+    color: white;
+}
+.span-3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.2rem;
+    color: white;
+    font-weight: 100;
+}
+.address{
+    margin-top: 30px !important;
+}
+.p3{
+    font-size: 1.6rem;
+    font-family: 'Poppins';
+    font-weight: 25;
+    margin: 13px 0;
+}
+.get-directions-btn{
+    margin: 40px 0 0 80px !important;
+}
+.faisalabad{
+    gap: 0;
+}
+/* elements section 5 */
+
+.h2-5{
+    font-family: 'Font-1';
+    font-size: 5.2rem;
+    font-weight: 350;
+}
+.span-4{
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 4.8rem !important;
+    font-weight: 150 !important;
+}
+.elements-3{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 30px 150px 0;
+    display: flex;
+}
+.h2-6{
+    font-size: 2.4rem;
+    font-family: 'Poppins';
+}
+.span-5{
+    font-family: 'Font-1' !important;
+    font-weight: 400 !important;
+    font-size: 2.6rem;
+}
+.sec-5-images{
+    margin: 15px;
+}
+.sec-5-txt{
+    text-align: center;
+    margin-top: 30px;
+}
