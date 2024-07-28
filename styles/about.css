@@ -44,3 +44,26 @@ a{
     padding: 5px;
     align-items: center;
 }
+
+/* introduction */
+
+.intro-h1-1{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px 150px 25px;
+}
+.intro{
+    text-align: center;
+}
+.intro-p1{
+    font-size: 1.6rem;
+    font-family: 'Poppins';
+    font-weight: 50;
+    margin: 0 150px 25px;
+}
+.intro-h1-2{
+    font-size: 3.2rem;
+    margin: 40px 150px 25px;
+    font-family: 'Poppins';
+    font-weight: 100;
+}

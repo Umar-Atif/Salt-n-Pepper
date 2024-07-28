@@ -327,7 +327,7 @@ a{
     display: flex;
 }
 .footer-logo{
-    margin-top: 20px;
+    margin: 20px 4px;
     font-size: 1.4rem;
     background-color: var(--red-color);
     border-radius: 25px;
@@ -337,6 +337,10 @@ a{
     background-color: rgb(20, 20, 20);
     padding: 15px;
 }
+.footer-sec-img{
+    margin: 30px 0 1px;
+}
+
 /* last section */
 .last-sec-p1{
     font-family: 'Poppins';
@@ -354,4 +358,7 @@ a{
     font-weight: 40;
     font-size: 1.4rem;
     margin: 30px 150px 0 675px;
+}
+.last-sec-img{
+    margin: 30px 0 1px;
 }
