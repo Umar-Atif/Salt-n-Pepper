@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Font-1';
-    src: url(/futurak.ttf);
+    src: url(/Fonts/futurak.ttf);
 }
 
 /* navbar */
@@ -49,7 +49,6 @@ a{
 .logo-font{
     font-family: 'Font-1' !important;
     font-size: 5.2rem !important;
-    font-weight: 350 !important;
 }
 .h2-1{   
     font-size: 4rem;
@@ -71,6 +70,8 @@ a{
 /* 3rd portion */
 .img-1{
     background: white;
+    padding: 8px;
+    border-radius: 10px;
 }
 .a{
     margin: 25px 50px;
@@ -148,7 +149,7 @@ a{
     margin: 40px 0 0 80px !important;
 }
 .faisalabad{
-    gap: 0;
+    gap: 50px;
 }
 /* elements section 5 */
 
@@ -227,6 +228,7 @@ a{
 
 .sec-8-span{
     font-size: 2.6rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 .sec-8-text{
     text-align: center;
